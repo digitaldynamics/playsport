@@ -1,0 +1,8 @@
+{
+  "name": "PlaySportApp",
+  "app_id": "5f68e354",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
